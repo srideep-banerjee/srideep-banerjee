@@ -20,3 +20,5 @@ I am a second-year Computer Science and Engineering student based in Durgapur, I
 <br><br>
 ### 📫 Connect with Me
 <a href="https://www.linkedin.com/in/srideep-banerjee-64b712251" title="LinkedIn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srideep-banerjee&" alt="srideep-banerjee" /></p>
