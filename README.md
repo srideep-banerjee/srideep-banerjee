@@ -1,5 +1,5 @@
 # Hi there, I'm Srideep Banerjee 👋
-I am a second-year Computer Science and Engineering student based in Durgapur, India. As an open-source enthusiast and passionate Android developer, I love to build desktop and android applications in Java as a hobby.
+I am a second-year Computer Science and Engineering student based in Durgapur, India. As an open-source enthusiast and passionate Android developer, I love to build desktop and android applications as a hobby.
 ### 🔧 Technologies and Tools
 #### Here are some of my known programming languages:
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px"></a>
