@@ -22,9 +22,5 @@ I am a fourth-year Computer Science and Engineering student based in Durgapur, I
 <a href="https://opencv.org/" title="OpenCV"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="30px" height="30px"></a>
 <a href="https://unity.com/" title="Unity"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30px" height="30px"></a>
 <br><br>
-### 📝 Blogs
-* <a href="https://medium.com/@banerjee.srideep/getting-started-with-fossology-a80f506c15fe" terget="Blank">Getting Started with FOSSology</a><br>
-* <a href="https://medium.com/@banerjee.srideep/scan-for-licenses-in-open-source-project-using-fossology-2fb667ad1a1" target="Blank">Scan for licenses in Open Source project using FOSSology</a>
-<br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srideep-banerjee&" alt="srideep-banerjee" /></p>
