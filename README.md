@@ -22,5 +22,3 @@ I am a fourth-year Computer Science and Engineering student based in Durgapur, I
 <a href="https://opencv.org/" title="OpenCV"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="30px" height="30px"></a>
 <a href="https://unity.com/" title="Unity"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30px" height="30px"></a>
 <br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srideep-banerjee&" alt="srideep-banerjee" /></p>
